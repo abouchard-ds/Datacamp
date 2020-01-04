@@ -12,12 +12,20 @@ Between January 13th 2019 and January 3rd 2020 I've:
   - For a total of ~240 hours;
 
 - Completed 3 `Career Tracks`:
-	- [Machine Learning scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d79855f891aab66a1e94f34ef06ca5b13f72cb82)
+  - [Machine Learning scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d79855f891aab66a1e94f34ef06ca5b13f72cb82)
     (23 courses/93h);
-	- [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/e837afb3f66524818925a5af304cd1a52d920662)
-    (19 courses/64h);
-	- [Data Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/8ee5b7c445f10eb810bd2fd1817839b6a7cbbbae)
+
+    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Machine_Learning_Scientist.png" width="214" height="225">
+    
+  - [Data Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/8ee5b7c445f10eb810bd2fd1817839b6a7cbbbae)
     (22 courses/89h);
+
+    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Scientist.png" width="214" height="225">
+    
+  - [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/e837afb3f66524818925a5af304cd1a52d920662)
+    (19 courses/64h);
+    
+    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Analyst.png" width="214" height="225">
 
 - Completed 3 `Skill Tracks`:
   - [Machine Learning Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/9f89f5b3242b0aa2da80c8365bffb0ea965e61a9)
