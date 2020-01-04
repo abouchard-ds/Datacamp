@@ -101,8 +101,10 @@ Individual course certificate look like this:
 ## Post mortem
 While I did not had the time to commit fully to it (young children/full-time work/part-time university), I'm am still pretty satisfied with the experience. This helped me in real life use cases on personnal project and job project and helped get better grades at university since it is pretty much the same subjects.
 
-The pedagogical coding methodology is very good as you start with 3-4 lines of code on a subject and work your way to a complex solution by doing exercises. There is 'effect' isolation where you see the effect of your changes one at the time and then in combination.
+The pedagogical methodology for the coding exercise is very good as you start with 3-4 lines of code on a subject and work your way to a complex solution by doing exercises. There is 'effect' isolation where you see the effect of your changes one at the time and then in combination.
 
 All these coding exercises create coding habits. Even if you never touched a computer before, after 3500 repetitions you will be able to code some things on your own.
 
 The day I wanted to close my account I realized I did not "properly close" the courses so I closed these all on the same date. Does not matter as I dont intend to get my 'average per month' or anything like that.
+
+At the day I've stopped my Datacamp subscription, they were still using the old template for the "Tracks" certificate (which are some kind of accomplishment) while individual courses were using a nicer, more modern certificate template.
