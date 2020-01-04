@@ -1,7 +1,7 @@
 # Datacamp
-Notes from my 1 year (good) experience with Datacamp. I've closed my account since they are raising the price to a ridiculous level. 
+Notes from my 1 year (good) experience with Datacamp. I've closed my account since they are raising the price to a level I don't want to pay.
 
-[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science stuff*" online with a heavy focus on coding exercises. They offer mainly R/Python courses. I discovered the website while doing the *Harvardx Data Science Professionnal Certificate* because some exercises were coded on Datacamp.
+[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on coding exercises. They offer mainly R/Python courses. I discovered the website while doing the *Harvardx Data Science Professionnal Certificate* because some exercises were coded on Datacamp.
 
 ## Summary:
 
@@ -92,4 +92,4 @@ Between January 13th 2019 and January 3rd 2020 I've:
 ## Post mortem
 While I did not had the time to commit fully to it (young children/full-time work/part-time university), I'm am still pretty satisfied with the experience. This helped me in real life use cases on personnal project and job project and helped get better grades at university since it is pretty much the same subjects.
 
-All these coding exercises
+All these coding exercises they create coding habits. So after 3500 repetitions, you should be able to code things on your own.
