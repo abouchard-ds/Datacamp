@@ -15,10 +15,8 @@ Between January 2019 and January 2020 I've:
 
   - [Machine Learning scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d79855f891aab66a1e94f34ef06ca5b13f72cb82)
     (23 courses/93h);
-
   - [Data Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/8ee5b7c445f10eb810bd2fd1817839b6a7cbbbae)
     (22 courses/89h);
-
   - [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/e837afb3f66524818925a5af304cd1a52d920662)
     (19 courses/64h);
 
