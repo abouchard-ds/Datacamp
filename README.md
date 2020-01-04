@@ -1,18 +1,16 @@
 # Datacamp
-Notes from my 1 year (good) experience with Datacamp. I've closed my account since they are raising the price to a level I don't want to pay.
+Notes from 1 year of (good) experience with Datacamp. I've closed my account since they are raising the price to a level I don't want to pay. My goal was to code, learn and complement my academic program.
 
 [Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on coding exercises. They offer mainly R/Python courses. I discovered the website while doing the *Harvardx Data Science Professionnal Certificate* because some exercises were coded on Datacamp.
 
 ## Summary:
+Between January 2019 and January 2020 I've:
 
-Between January 13th 2019 and January 3rd 2020 I've:
-
-- Completed **60 Courses** in total (some repeats between the tracks, some are not in any tracks)
-  - Representing **3507 exercises**;
+- Completed **60 Courses**
+  - Which amount for **3507 exercises**;
   - For a total of ~240 hours;
 
 - Completed 3 `Career Tracks`:
-
     <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Machine_Learning_Scientist.png" width="150" height="158"><img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Scientist.png" width="150" height="158"><img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Analyst.png" width="150" height="158">
 
   - [Machine Learning scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d79855f891aab66a1e94f34ef06ca5b13f72cb82)
@@ -29,7 +27,7 @@ Between January 13th 2019 and January 3rd 2020 I've:
   - [Machine learning fundamentals in R](https://www.datacamp.com/statement-of-accomplishment/track/b1f7c51276790a5c2d8920e6b0f631a3f75dbb09) 
   - [Importing & Cleaning Data with R](https://www.datacamp.com/statement-of-accomplishment/track/31a348171c21da3be0a7f5ab3951f13651b99aee) 
 
-### Completed courses:
+### List of completed courses:
 Individual course certificate look like this: 
 
 <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Certificate_example.png" width="540" height="312">
@@ -97,14 +95,11 @@ Individual course certificate look like this:
 |[Winning a Kaggle Competition in Python](https://www.datacamp.com/statement-of-accomplishment/course/c0686d074daad963b2a9f72db65c9af0076b560e)|Python|
 |[Working with Dates and Times in R](https://www.datacamp.com/statement-of-accomplishment/course/279d322d211a000fd2a2887ee32234d262a6ac80)|R|
 
-
 ## Post mortem
-While I did not had the time to commit fully to it (young children/full-time work/part-time university), I'm am still pretty satisfied with the experience. This helped me in real life use cases on personnal project and job project and helped get better grades at university since it is pretty much the same subjects.
+While I did not had the time to fully commit(young children/full-time work/part-time university), I am still pretty satisfied with the experience. This helped me in real life use cases at work and helped me get better grades at university since it is similar subjects.
 
-The pedagogical methodology for the coding exercise is very good as you start with 3-4 lines of code on a subject and work your way to a complex solution by doing exercises. There is 'effect' isolation where you see the effect of your changes one at the time and then in combination.
+The pedagogical methodology of the coding exercises is good as they make you progress from simple to complex seemlessly. There is 'effect' isolation where you see the effect of your changes one at the time and then in combination.
 
-All these coding exercises create coding habits. Even if you never touched a computer before, after 3500 repetitions you will be able to code some things on your own.
+All these coding exercises create coding habits which can only come from experience. Even if you never touched a computer before, after 3500 repetitions anyone would be able to code something on is/her own. 
 
-The day I wanted to close my account I realized I did not "properly close" the courses so I closed these all on the same date. Does not matter as I dont intend to get my 'average per month' or anything like that.
-
-At the day I've stopped my Datacamp subscription, they were still using the old template for the "Tracks" certificate (which are some kind of accomplishment) while individual courses were using a nicer, more modern certificate template.
+Overall it's a good product. 
