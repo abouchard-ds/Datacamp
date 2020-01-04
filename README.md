@@ -1,7 +1,6 @@
-# Datacamp
-Notes from 1 year of (good) experience with Datacamp. I've closed my account since they are raising the price to a level I don't want to pay. My goal was to code, learn and complement my academic program.
-
 [Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on coding exercises. They offer mainly R/Python courses. I discovered the website while doing the *Harvardx Data Science Professionnal Certificate* because some exercises were coded on Datacamp.
+
+I've used it for 1 year but have now closed my account since they are raising the price to a level I don't think it's worth it. My goal was to code, learn and complement my academic pursuit.
 
 ## Summary:
 Between January 2019 and January 2020 I've:
