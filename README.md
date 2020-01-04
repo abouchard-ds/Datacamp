@@ -32,8 +32,8 @@ Individual course certificate look like this:
 
 <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Certificate_example.png" width="540" height="312">
 
-| Course name (alphabetical) | Language |
-| :------------------------- | :------- |
+| **Course name (alphabetical)** | **Language** |
+| :----------------------------- | :----------- |
 |[Advanced Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/9558abc0841ec182d8d6d04f23f728c25b7257d3)|Python|
 |[Categorical Data in the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/3179b7940bf95fc181b2a2b78dcc4b9fe4140911)|R|
 |[Cleaning Data in R](https://www.datacamp.com/statement-of-accomplishment/course/2f01406c235b389e40f5ebcf235e0ebf855c090a)|R|
@@ -94,6 +94,7 @@ Individual course certificate look like this:
 |[Visualization Best Practices in R](https://www.datacamp.com/statement-of-accomplishment/course/30ff227459725300ae3c03256206029cf80afdf3)|R|
 |[Winning a Kaggle Competition in Python](https://www.datacamp.com/statement-of-accomplishment/course/c0686d074daad963b2a9f72db65c9af0076b560e)|Python|
 |[Working with Dates and Times in R](https://www.datacamp.com/statement-of-accomplishment/course/279d322d211a000fd2a2887ee32234d262a6ac80)|R|
+
 
 ## Post mortem
 While I did not had the time to fully commit(young children/full-time work/part-time university), I am still pretty satisfied with the experience. This helped me in real life use cases at work and helped me get better grades at university since it is similar subjects.
