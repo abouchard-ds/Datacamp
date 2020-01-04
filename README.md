@@ -13,9 +13,7 @@ Between January 13th 2019 and January 3rd 2020 I've:
 
 - Completed 3 `Career Tracks`:
 
-    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Machine_Learning_Scientist.png" width="150" height="158">
-    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Scientist.png" width="150" height="158">
-    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Analyst.png" width="150" height="158">
+    <img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Machine_Learning_Scientist.png" width="150" height="158"><img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Scientist.png" width="150" height="158"><img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Data_Analyst.png" width="150" height="158">
 
   - [Machine Learning scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/d79855f891aab66a1e94f34ef06ca5b13f72cb82)
     (23 courses/93h);
