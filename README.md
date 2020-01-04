@@ -98,3 +98,5 @@ Between January 13th 2019 and January 3rd 2020 I've:
 While I did not had the time to commit fully to it (young children/full-time work/part-time university), I'm am still pretty satisfied with the experience. This helped me in real life use cases on personnal project and job project and helped get better grades at university since it is pretty much the same subjects.
 
 All these coding exercises they create coding habits. So after 3500 repetitions, you should be able to code things on your own.
+
+The day I wanted to close my account I realized I did not "properly close" the courses so I closed them all on the same date.
