@@ -30,6 +30,10 @@ Between January 13th 2019 and January 3rd 2020 I've:
   - [Importing & Cleaning Data with R](https://www.datacamp.com/statement-of-accomplishment/track/31a348171c21da3be0a7f5ab3951f13651b99aee) 
 
 ### Completed courses:
+Individual course certificate look like this: 
+
+<img src="https://raw.githubusercontent.com/abouchard-ds/Datacamp/master/media/Certificate_example.png" width="540" height="312">
+
 | Course name (alphabetical) | Language |
 | :------------------------- | :------- |
 |[Advanced Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/9558abc0841ec182d8d6d04f23f728c25b7257d3)|Python|
