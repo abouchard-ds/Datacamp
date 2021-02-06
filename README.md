@@ -93,10 +93,10 @@ Individual course certificate look like this:
 
 
 ## Post mortem
-While I did not had the time to fully commit(young children/full-time work/part-time university), I am still pretty satisfied with the experience. This helped me in real life use cases at work and helped me get better grades at university since it is similar subjects.
+While I did not had the time to fully commit, I am still pretty satisfied with the experience. This helped me in real life use cases at work and helped me get better grades at university for similar subjects.
 
-The pedagogical methodology of the coding exercises is good as they make you progress from simple to complex seemlessly. There is 'effect' isolation where you see the effect of your changes one at the time and then in combination.
+The pedagogical methodology of the coding exercises is good as they make you progress from simple to complex seemlessly.
 
 All these coding exercises create coding habits which can only come from experience. Even if you never touched a computer before, after 3500 repetitions anyone would be able to code something on is/her own. 
 
-Overall it's a good product. 
+Overall it's a (now overpriced) good product. 
