@@ -1,13 +1,11 @@
-[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on coding exercises. They offer mainly R/Python courses. I discovered the website while doing the *Harvardx Data Science Professionnal Certificate* because some exercises were coded on Datacamp.
-
-I've used it for 1 year but have now closed my account since they are raising the price to a level I don't think it's worth it. My goal was to code, learn and complement my academic pursuit.
+[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on videos followed by coding exercises. It offer mainly R/Python courses. I've used it for 1 year but have now closed my account since they are raising the price to a level I don't think it's worth it.
 
 ## Summary:
 Between January 2019 and January 2020 I've:
 
 - Completed **60 Courses**
   - Which amount for **3507 exercises**;
-  - For a total of ~240 hours;
+  - For a total of ~300 hours;
 
 - Completed 3 `Career Tracks`:
 
