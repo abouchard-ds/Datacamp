@@ -1,4 +1,4 @@
-[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on videos followed by coding exercises. It offer mainly R/Python courses. I've used it for 1 year but have now closed my account since they are raising the price to a level I don't think it's worth it.
+[Datacamp](https://www.datacamp.com/home) is a website to learn "*data science*" online with a heavy focus on videos followed by coding exercises. It offer mainly R/Python courses. I've used it for 1 year. I closed my account since they raised the price to a level I don't feel it's worth it. This is a summary of what I've learned.
 
 ## Summary:
 Between January 2019 and January 2020 I've:
